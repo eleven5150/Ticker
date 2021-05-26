@@ -1,0 +1,2 @@
+symbols.c:336:12:getSymbolMatrixPtrArray	16	static
+symbols.c:343:6:setSymbolMatrixPtrArray	24	static

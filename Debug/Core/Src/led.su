@@ -1,0 +1,3 @@
+led.c:12:6:segchar	16	static
+led.c:45:6:outpin	16	static
+led.c:83:9:symboldigit	24	static
